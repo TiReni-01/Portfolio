@@ -98,7 +98,7 @@ function App(): JSX.Element {
 
           {/* Button to toggle GitHub WebView */}
           <Button
-            title={showWebView ? 'Close GitHub' : "Here's my GitHub"}
+            title={showWebView ? 'Close GitHub' : "Open GitHub"}
             onPress={toggleWebView}
             containerStyle={{ marginTop: 20, alignSelf: 'center' }}
           />

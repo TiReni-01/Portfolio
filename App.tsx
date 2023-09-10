@@ -59,7 +59,7 @@ function App(): JSX.Element {
   };
 
   const avatarImageUrl =
-    'https://pbs.twimg.com/profile_images/1555198865242034180/yNZxK_Wf_400x400.jpg';
+    'https://pbs.twimg.com/profile_images/1700926578794876928/_WNwKWn5_400x400.jpg';
 
   const githubUrl = 'https://github.com/TiReni-01';
 

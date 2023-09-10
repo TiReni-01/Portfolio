@@ -1,6 +1,6 @@
-# Project Name
+# Portfolio project
 
-Brief project description here.
+A portfolio mobile app built with react native showing my github in webview
 
 ## Table of Contents
 
